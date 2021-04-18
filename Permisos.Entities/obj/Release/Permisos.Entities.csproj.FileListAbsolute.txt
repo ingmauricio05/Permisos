@@ -1,0 +1,4 @@
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Entities\bin\Release\Permisos.Entities.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Entities\bin\Release\Permisos.Entities.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Entities\obj\Release\Permisos.Entities.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Entities\obj\Release\Permisos.Entities.pdb

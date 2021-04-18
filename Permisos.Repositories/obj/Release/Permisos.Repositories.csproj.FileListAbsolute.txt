@@ -1,0 +1,14 @@
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Repositories.dll.config
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Repositories.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Repositories.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\EntityFramework.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Entities.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Interfaces.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Entities.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\Permisos.Interfaces.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\EntityFramework.xml
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\obj\Release\Permisos.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\obj\Release\Permisos.Repositories.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Repositories\obj\Release\Permisos.Repositories.pdb

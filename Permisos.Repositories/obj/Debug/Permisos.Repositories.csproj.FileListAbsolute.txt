@@ -1,0 +1,14 @@
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Repositories.dll.config
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Repositories.dll
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Repositories.pdb
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\EntityFramework.dll
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Entities.dll
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Interfaces.dll
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Entities.pdb
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\Permisos.Interfaces.pdb
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\EntityFramework.xml
+C:\Permisos\Permisos\Permisos.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Permisos\Permisos\Permisos.Repositories\obj\Debug\Permisos.Repositories.csprojResolveAssemblyReference.cache
+C:\Permisos\Permisos\Permisos.Repositories\obj\Debug\Permisos.Repositories.dll
+C:\Permisos\Permisos\Permisos.Repositories\obj\Debug\Permisos.Repositories.pdb

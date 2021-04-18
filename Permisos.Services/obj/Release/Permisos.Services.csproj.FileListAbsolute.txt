@@ -1,0 +1,9 @@
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Services.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Services.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Entities.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Interfaces.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Entities.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\bin\Release\Permisos.Interfaces.pdb
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\obj\Release\Permisos.Services.csprojResolveAssemblyReference.cache
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\obj\Release\Permisos.Services.dll
+C:\Users\mgallegog\Desktop\Permisos\Permisos\Permisos.Services\obj\Release\Permisos.Services.pdb

@@ -1,0 +1,5 @@
+C:\Permisos\Permisos\Permisos.Entities\bin\Debug\Permisos.Entities.dll
+C:\Permisos\Permisos\Permisos.Entities\bin\Debug\Permisos.Entities.pdb
+C:\Permisos\Permisos\Permisos.Entities\obj\Debug\Permisos.Entities.csprojResolveAssemblyReference.cache
+C:\Permisos\Permisos\Permisos.Entities\obj\Debug\Permisos.Entities.dll
+C:\Permisos\Permisos\Permisos.Entities\obj\Debug\Permisos.Entities.pdb
